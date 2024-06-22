@@ -41,14 +41,20 @@ const Hero = () => {
           </h1>
           <h2>Full-stack Developer</h2>
           <span>
-            <a href="https://x.com/_yuvan_shankar" target='_blank'></a>
-            <img src={twitterIcon} alt="twitter logo" />
+            <a href="https://x.com/_yuvan_shankar" target="_blank">
+              <img src={twitterIcon} alt="twitter logo" />
+            </a>
 
-            <a href="https://github.com/yuvanshankar2694" target='_blank'></a>
-            <img src={gitHubIcon} alt="gitHub logo" />
+            <a href="https://github.com/yuvanshankar2694" target="_blank">
+              <img src={gitHubIcon} alt="gitHub logo" />
+            </a>
 
-            <a href="https://www.linkedin.com/in/yuvanshankarv/" target='_blank'></a>
-            <img src={linkedInIcons} alt="linkedIn logo" />
+            <a
+              href="https://www.linkedin.com/in/yuvanshankarv/"
+              target="_blank"
+            >
+              <img src={linkedInIcons} alt="linkedIn logo" />
+            </a>
           </span>
           <p>
             As a full-stack web developer, I transform ideas into seamless and
