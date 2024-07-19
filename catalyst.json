@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "yuvan-shankar-portfolio",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
